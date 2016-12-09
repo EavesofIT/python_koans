@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+*.pyc
+*.swp
+.DS_Store
+answers
+.hg
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -87,3 +94,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+>>>>>>> f99019d82b6d0aad32d21f154eca6e8d242bf3f3
+
